@@ -1,6 +1,6 @@
 let num1 = 1;
 let num2 = 62;
-console.log()
+console.log(num1)
 const multiply = num1 * num;
 
 const random = Math.random(0); 
