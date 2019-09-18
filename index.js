@@ -1,6 +1,7 @@
-let num1 = 8; = 9;
+let num1;
+let num2;
 
-// const multiply = num1 * num;
+const multiply = num1 * num;
 
 const random = Math.random(0); 
 
