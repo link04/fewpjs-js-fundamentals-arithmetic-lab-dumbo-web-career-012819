@@ -5,4 +5,4 @@
 
 const random = Math.random(0); 
 
-const mod = Math.random(0);
+const mod = 4 / 1;
