@@ -1,5 +1,3 @@
-let num1 = 1;
-let num2 = 62;
 
 const multiply = num1 * num;
 
