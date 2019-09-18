@@ -7,4 +7,4 @@ const random = Math.random(0);
 
 const mod = 4 / 1;
 
-const max = Math.max(1, 220, 3);
+const max = Math.max(1, 20, 3);
