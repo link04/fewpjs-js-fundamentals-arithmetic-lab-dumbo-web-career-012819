@@ -3,4 +3,6 @@
 
 // const multiply = num1 * num;
 
-const random = Math.random(0);
+const random = Math.random(0); 
+
+const mod = Math.random(0);
